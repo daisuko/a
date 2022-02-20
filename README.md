@@ -1,12 +1,5 @@
-# a_type_keyboard
-using TMK Keyboard Firmware Collection <http://github.com/tmk/tmk_keyboard>
+# a
 
-![keyboard1](https://github.com/daisuko/a_type_keyboard/blob/master/keyboard_1.JPG)
-![keyboard2](https://github.com/daisuko/a_type_keyboard/blob/master/keyboard_2.JPG)
+https://github.com/keebio/Keebio-Parts.pretty
 
-## Layout
-![layout1](https://github.com/daisuko/a_type_keyboard/blob/master/keyboard-layout_1.png)
-![layout2](https://github.com/daisuko/a_type_keyboard/blob/master/keyboard-layout_2.png)
-
-## License
-GPLv2 or later. Some protocol files are under Modified BSD License.
+https://github.com/ai03-2725/MX_Alps_Hybrid
